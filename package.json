@@ -1,0 +1,20 @@
+{
+  "name": "estrutura-de-dados-com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "bitwise": "npx nodemon ./bitwise/index.js",
+    "arrow": "npx nodemon ./arrowfunction-spread/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoHortaFilho/estrutura-de-dados-com-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoHortaFilho/estrutura-de-dados-com-js/issues"
+  },
+  "homepage": "https://github.com/RobertoHortaFilho/estrutura-de-dados-com-js#readme"
+}
